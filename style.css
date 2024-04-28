@@ -1,0 +1,22 @@
+* {
+  background-color: brown;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  display: flex;
+}
+
+.main_menu {
+  display: flex;
+  gap: 15px;
+}
+
+.auth_menu {
+  display: flex;
+  gap: 15px;
+}
